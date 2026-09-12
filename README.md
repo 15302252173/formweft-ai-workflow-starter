@@ -6,6 +6,12 @@ Turn one recurring task into a workflow you can explain, test and hand over.
 
 [中文说明](#中文说明) · [FORMWEFT](https://formweft.com/en/?utm_source=github&utm_medium=resource&utm_campaign=workflow_starter) · [Learning resources](https://formweft.com/en/resources?utm_source=github&utm_medium=resource&utm_campaign=workflow_starter)
 
+## New tutorial: follow-up acceptance / 新教程：客户跟进验收
+
+[Six acceptance tests / 六个验收样例](customer-follow-up-acceptance.md): normal requests, opt-outs, missing facts, conflicting records, instructions inside customer notes and duplicate retries. Includes fictional inputs, reviewer answer keys, a copyable request and an acceptance log.
+
+六个虚构样例覆盖正常请求、停止联系、资料不足、记录冲突、备注越权指令和重复处理；附中英练习请求、预期答案与复核表。
+
 ## New practice: weekly updates / 新练习：AI 周报
 
 [Open the bilingual weekly update template / 打开双语周报模板](weekly-update-template.md): five fictional records, copyable prompts, expected conclusions and a review checklist. Practice keeping draft completion, review and publication distinct, and attach evidence to each factual claim.
@@ -146,3 +152,4 @@ This repository is a FORMWEFT learning and product-introduction resource. The ex
 这份资料用于 FORMWEFT 学习与产品介绍。练习数据均为虚构样例，不代表客户案例或业务效果；下载包的使用条件以各资源页面为准。
 
 Reviewed: 2026-09-12. [English website](https://formweft.com/en/?utm_source=github&utm_medium=resource&utm_campaign=workflow_starter) · [中文官网](https://formweft.com/?utm_source=github&utm_medium=resource&utm_campaign=workflow_starter)
+

@@ -12,6 +12,12 @@ Turn one recurring task into a workflow you can explain, test and hand over.
 
 包含 5 条虚构记录、可复制请求、预期答案与复核表。练习区分草稿、送审、通过和发布，并给每个事实标注依据。
 
+## Download and try / 下载即练习
+
+[Get the Motion Workbench practice kit / 下载口播字幕练习包](https://github.com/15302252173/formweft-ai-workflow-starter/releases/tag/motion-practice-20260912): a 12-second original silent video, three fictional SRT captions and bilingual instructions. Import the files, edit a caption and learn to spot a half-second timing gap before exporting.
+
+包含 12 秒无声示例视频、3 条虚构字幕和双语步骤。基础编辑无需登录；可选 AI 需另行配置。解压后从 START-HERE.md 开始，练习文件导入、字幕修改和时间检查。
+
 ## 1. Copy this workflow brief
 
 | Field | Fill this in before building |

@@ -6,6 +6,12 @@ Turn one recurring task into a workflow you can explain, test and hand over.
 
 [中文说明](#中文说明) · [FORMWEFT](https://formweft.com/en/?utm_source=github&utm_medium=resource&utm_campaign=workflow_starter) · [Learning resources](https://formweft.com/en/resources?utm_source=github&utm_medium=resource&utm_campaign=workflow_starter)
 
+## New practice: weekly updates / 新练习：AI 周报
+
+[Open the bilingual weekly update template / 打开双语周报模板](weekly-update-template.md): five fictional records, copyable prompts, expected conclusions and a review checklist. Practice keeping draft completion, review and publication distinct, and attach evidence to each factual claim.
+
+包含 5 条虚构记录、可复制请求、预期答案与复核表。练习区分草稿、送审、通过和发布，并给每个事实标注依据。
+
 ## 1. Copy this workflow brief
 
 | Field | Fill this in before building |

@@ -1,5 +1,9 @@
 # FORMWEFT AI Workflow Starter
 
+**New worksheet / 新增记录表:** [AI pilot time and cost / AI 试点工时与成本](pilot-time-cost-worksheet.md) — compare full human effort, recurring spend and setup costs with a fictional worked example.
+
+附可复制的中英记录表，包含审核、返工、失败兜底与运行费用；区分腾出的工时、现金支出和一次性投入。
+
 Turn one recurring task into a workflow you can explain, test and hand over.
 
 **Start here:** copy the brief below, try the three fictional records, and check the expected decisions before connecting a real system.

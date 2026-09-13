@@ -1,5 +1,9 @@
 # FORMWEFT AI Workflow Starter
 
+**Offline video editor / 离线视频编辑器:** [Download and start / 下载与入门](motion-offline-start-here.md) — the official Motion Workbench 1.5.0 source archive with MIT license, a verified checksum and a bilingual guide. Import local video and existing SRT; optional live-site AI workflows are separate.
+
+包含官网离线源码原包、MIT 许可与中英操作说明，可用本地视频和已有 SRT 制作动效字幕。
+
 **New worksheet / 新增记录表:** [AI pilot time and cost / AI 试点工时与成本](pilot-time-cost-worksheet.md) — compare full human effort, recurring spend and setup costs with a fictional worked example.
 
 附可复制的中英记录表，包含审核、返工、失败兜底与运行费用；区分腾出的工时、现金支出和一次性投入。

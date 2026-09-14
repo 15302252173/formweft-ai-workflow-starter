@@ -1,3 +1,13 @@
+## 20 free exercises / 20份免费练习
+
+[Open / 阅读](business-practice-20/README.md)
+
+[ZIP / 下载](business-practice-20/formweft-business-practice-20.zip)
+
+Fictional inputs, bilingual prompts and answer keys. 虚构样例、中英请求与参考答案。
+
+---
+
 # FORMWEFT AI Workflow Starter
 
 **Offline video editor / 离线视频编辑器:** [Download and start / 下载与入门](motion-offline-start-here.md) — the official Motion Workbench 1.5.0 source archive with MIT license, a verified checksum and a bilingual guide. Import local video and existing SRT; optional live-site AI workflows are separate.
